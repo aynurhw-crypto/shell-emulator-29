@@ -28,6 +28,7 @@ run.bat
 
 # Linux / macOS
 chmod +x run.sh
+
 ./run.sh
 ```
 
