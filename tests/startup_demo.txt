@@ -1,0 +1,5 @@
+pwd
+ls
+help
+invalid_command_to_skip
+cd /non_existent_folder
